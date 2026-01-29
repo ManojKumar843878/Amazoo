@@ -1,0 +1,1803 @@
+[
+  {
+    "name": "OPPO F21s Pro 5G",
+    "price": 245.67,
+    "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      },
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
+    "price": 150.32,
+    "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+    "ratings": 3.5,
+    "images": [
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Flipkart",
+    "stock": 9
+  },
+  {
+    "name": "Dell Inspiron 3511 Laptop",
+    "price": 440.57,
+    "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
+    "ratings": 2,
+    "images": [
+      {
+        "image": "/images/products/3.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 3 Laptop",
+    "price": 250.45,
+    "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/6.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "ASUS VivoBook 15 Laptop",
+    "price": 767.32,
+    "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/7.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
+    "price": 15.46,
+    "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/4.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "Campus Men's Maxico Running Shoes",
+    "price": 10.12,
+    "description": "The high raised back cover with extra padding.",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "/images/products/5.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Ebay",
+    "stock": 6
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e001"
+    },
+    "name": "iPhone 15 Pro Max",
+    "price": 1199.00,
+    "description": "Titanium design with A17 Pro chip and 5x Telephoto camera.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/101.jpg"
+      }
+    ],
+    "category": "Smartphones",
+    "seller": "Apple",
+    "stock": 12
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e002"
+    },
+    "name": "Samsung S24 Ultra",
+    "price": 1299.00,
+    "description": "Galaxy AI integrated with 200MP camera and S-Pen support.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/102.jpg"
+      }
+    ],
+    "category": "Smartphones",
+    "seller": "Samsung",
+    "stock": 8
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e003"
+    },
+    "name": "Google Pixel 8 Pro",
+    "price": 999.00,
+    "description": "The best of Google AI in a phone with a pro-level triple camera.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/103.jpg"
+      }
+    ],
+    "category": "Smartphones",
+    "seller": "Google",
+    "stock": 15
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e004"
+    },
+    "name": "OnePlus 12",
+    "price": 799.00,
+    "description": "Fast and smooth performance with Hasselblad Camera for Mobile.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/104.jpg"
+      }
+    ],
+    "category": "Smartphones",
+    "seller": "Amazon",
+    "stock": 20
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e005"
+    },
+    "name": "Nothing Phone (2)",
+    "price": 649.00,
+    "description": "Unique Glyph Interface with powerful Snapdragon 8+ Gen 1.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/105.jpg"
+      }
+    ],
+    "category": "Smartphones",
+    "seller": "Nothing",
+    "stock": 10
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e006"
+    },
+    "name": "Xiaomi 14 Ultra",
+    "price": 1099.00,
+    "description": "Leica Summilux optical lens with 1-inch main sensor.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/106.jpg"
+      }
+    ],
+    "category": "Smartphones",
+    "seller": "Xiaomi",
+    "stock": 5
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e007"
+    },
+    "name": "Motorola Razr+",
+    "price": 999.00,
+    "description": "Modern flip phone with the largest external display in its class.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "/images/products/107.jpg"
+      }
+    ],
+    "category": "Smartphones",
+    "seller": "Amazon",
+    "stock": 6
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e008"
+    },
+    "name": "Sony Xperia 1 V",
+    "price": 1399.00,
+    "description": "4K HDR OLED display with professional cinematography features.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/108.jpg"
+      }
+    ],
+    "category": "Smartphones",
+    "seller": "Sony",
+    "stock": 4
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e009"
+    },
+    "name": "Asus ROG Phone 8",
+    "price": 1099.00,
+    "description": "Ultimate gaming phone with 165Hz display and AirTriggers.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/109.jpg"
+      }
+    ],
+    "category": "Smartphones",
+    "seller": "Asus",
+    "stock": 9
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e010"
+    },
+    "name": "Realme GT 5",
+    "price": 549.00,
+    "description": "240W ultra-fast charging with Snapdragon 8 Gen 2.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "/images/products/110.jpg"
+      }
+    ],
+    "category": "Smartphones",
+    "seller": "Realme",
+    "stock": 14
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e011"
+    },
+    "name": "MacBook Air M3",
+    "price": 1099.00,
+    "description": "Thin, light, and incredibly fast with the new M3 chip.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/111.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Apple",
+    "stock": 18
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e012"
+    },
+    "name": "Dell XPS 13",
+    "price": 1249.00,
+    "description": "Premium build with InfinityEdge display and Intel Evo.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/112.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Dell",
+    "stock": 10
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e013"
+    },
+    "name": "HP Spectre x360",
+    "price": 1499.00,
+    "description": "Versatile 2-in-1 laptop with stunning OLED touch screen.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/113.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "HP",
+    "stock": 7
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e014"
+    },
+    "name": "Lenovo Legion Pro 5",
+    "price": 1599.00,
+    "description": "Powerful gaming laptop with RTX 4070 and 165Hz QHD screen.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/114.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Lenovo",
+    "stock": 5
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e015"
+    },
+    "name": "Microsoft Surface Pro 9",
+    "price": 999.00,
+    "description": "Tablet portability with laptop performance and Windows 11.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/115.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Microsoft",
+    "stock": 12
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e016"
+    },
+    "name": "Asus Zenbook Duo",
+    "price": 1899.00,
+    "description": "Revolutionary dual-screen laptop for ultimate productivity.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/116.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Asus",
+    "stock": 3
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e017"
+    },
+    "name": "Acer Swift Go 14",
+    "price": 749.00,
+    "description": "OLED display in a lightweight aluminum body with Intel Core Ultra.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/117.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Acer",
+    "stock": 25
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e018"
+    },
+    "name": "Razer Blade 14",
+    "price": 2399.00,
+    "description": "The ultimate 14-inch gaming laptop with Ryzen 9 and RTX 4060.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/118.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Razer",
+    "stock": 6
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e019"
+    },
+    "name": "Samsung Galaxy Book4 Ultra",
+    "price": 2199.00,
+    "description": "Dynamic AMOLED 2X touch display with seamless Galaxy integration.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/119.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Samsung",
+    "stock": 4
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e020"
+    },
+    "name": "MSI Katana 15",
+    "price": 1099.00,
+    "description": "Budget gaming powerhouse with 144Hz screen and RGB keyboard.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "/images/products/120.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Amazon",
+    "stock": 30
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e021"
+    },
+    "name": "Sony WH-1000XM5",
+    "price": 399.00,
+    "description": "Industry leading noise canceling headphones with crystal clear calls.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/121.jpg"
+      }
+    ],
+    "category": "Audio",
+    "seller": "Sony",
+    "stock": 15
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e022"
+    },
+    "name": "Apple AirPods Pro 2",
+    "price": 249.00,
+    "description": "MagSafe charging with USB-C and 2x more Active Noise Cancellation.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/122.jpg"
+      }
+    ],
+    "category": "Audio",
+    "seller": "Apple",
+    "stock": 40
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e023"
+    },
+    "name": "Bose QuietComfort Ultra",
+    "price": 429.00,
+    "description": "Immersive spatial audio and world-class noise cancellation.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/123.jpg"
+      }
+    ],
+    "category": "Audio",
+    "seller": "Amazon",
+    "stock": 12
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e024"
+    },
+    "name": "Sennheiser Momentum 4",
+    "price": 349.00,
+    "description": "Incredible 60-hour battery life with audiophile-grade sound.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/124.jpg"
+      }
+    ],
+    "category": "Audio",
+    "seller": "Sennheiser",
+    "stock": 8
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e025"
+    },
+    "name": "Marshall Emberton II",
+    "price": 169.00,
+    "description": "Portable Bluetooth speaker with 30+ hours of iconic sound.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/125.jpg"
+      }
+    ],
+    "category": "Audio",
+    "seller": "Marshall",
+    "stock": 22
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e026"
+    },
+    "name": "JBL Flip 6",
+    "price": 129.00,
+    "description": "IP67 waterproof and dustproof portable speaker with loud bass.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/126.jpg"
+      }
+    ],
+    "category": "Audio",
+    "seller": "JBL",
+    "stock": 50
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e027"
+    },
+    "name": "Beats Studio Pro",
+    "price": 349.00,
+    "description": "Fully custom acoustic platform with personalized spatial audio.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/127.jpg"
+      }
+    ],
+    "category": "Audio",
+    "seller": "Beats",
+    "stock": 10
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e028"
+    },
+    "name": "Samsung Galaxy Buds2 Pro",
+    "price": 189.00,
+    "description": "24-bit Hi-Fi audio with intelligent ANC and comfortable fit.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/128.jpg"
+      }
+    ],
+    "category": "Audio",
+    "seller": "Samsung",
+    "stock": 35
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e029"
+    },
+    "name": "Google Pixel Buds Pro",
+    "price": 199.00,
+    "description": "Premium wireless earbuds with Silent Seal and transparency mode.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "/images/products/129.jpg"
+      }
+    ],
+    "category": "Audio",
+    "seller": "Google",
+    "stock": 20
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e030"
+    },
+    "name": "Sonos Era 100",
+    "price": 249.00,
+    "description": "Smart speaker with room-filling stereo sound and deep bass.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/130.jpg"
+      }
+    ],
+    "category": "Audio",
+    "seller": "Sonos",
+    "stock": 15
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e031"
+    },
+    "name": "Apple Watch Series 9",
+    "price": 399.00,
+    "description": "Powerful S9 chip with double tap gesture and brighter display.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/131.jpg"
+      }
+    ],
+    "category": "Smartwatches",
+    "seller": "Apple",
+    "stock": 25
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e032"
+    },
+    "name": "Samsung Galaxy Watch 6",
+    "price": 299.00,
+    "description": "Personalized heart zone workouts and advanced sleep coaching.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/132.jpg"
+      }
+    ],
+    "category": "Smartwatches",
+    "seller": "Samsung",
+    "stock": 30
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e033"
+    },
+    "name": "Garmin Fenix 7 Pro",
+    "price": 799.00,
+    "description": "Multisport GPS watch with solar charging and built-in flashlight.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/133.jpg"
+      }
+    ],
+    "category": "Smartwatches",
+    "seller": "Garmin",
+    "stock": 10
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e034"
+    },
+    "name": "Fitbit Charge 6",
+    "price": 159.00,
+    "description": "Fitness tracker with built-in GPS and heart rate monitoring.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/134.jpg"
+      }
+    ],
+    "category": "Smartwatches",
+    "seller": "Fitbit",
+    "stock": 45
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e035"
+    },
+    "name": "Huawei Watch GT 4",
+    "price": 249.00,
+    "description": "Classic aesthetic with 14-day battery life and health tracking.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/135.jpg"
+      }
+    ],
+    "category": "Smartwatches",
+    "seller": "Huawei",
+    "stock": 12
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e036"
+    },
+    "name": "Amazfit GTR 4",
+    "price": 199.00,
+    "description": "Strong GPS tracking with 150 sports modes and long battery.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "/images/products/136.jpg"
+      }
+    ],
+    "category": "Smartwatches",
+    "seller": "Amazon",
+    "stock": 20
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e037"
+    },
+    "name": "Google Pixel Watch 2",
+    "price": 349.00,
+    "description": "The best of Google and Fitbit combined in a beautiful design.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "/images/products/137.jpg"
+      }
+    ],
+    "category": "Smartwatches",
+    "seller": "Google",
+    "stock": 18
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e038"
+    },
+    "name": "Fossil Gen 6",
+    "price": 229.00,
+    "description": "Smartwatch with Wear OS and classic stainless steel look.",
+    "ratings": 4.0,
+    "images": [
+      {
+        "image": "/images/products/138.jpg"
+      }
+    ],
+    "category": "Smartwatches",
+    "seller": "Fossil",
+    "stock": 15
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e039"
+    },
+    "name": "TicWatch Pro 5",
+    "price": 349.00,
+    "description": "Dual display technology with massive battery life on Wear OS.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/139.jpg"
+      }
+    ],
+    "category": "Smartwatches",
+    "seller": "Mobvoi",
+    "stock": 7
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e040"
+    },
+    "name": "Apple Watch SE",
+    "price": 249.00,
+    "description": "All the essentials to keep you active, healthy, and connected.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/140.jpg"
+      }
+    ],
+    "category": "Smartwatches",
+    "seller": "Apple",
+    "stock": 50
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e041"
+    },
+    "name": "Sony PlayStation 5",
+    "price": 499.00,
+    "description": "Ultra-high speed SSD and immersive 3D audio technology.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/141.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Sony",
+    "stock": 5
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e042"
+    },
+    "name": "Xbox Series X",
+    "price": 499.00,
+    "description": "The fastest, most powerful Xbox ever with 12 teraflops of power.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/142.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Microsoft",
+    "stock": 10
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e043"
+    },
+    "name": "Nintendo Switch OLED",
+    "price": 349.00,
+    "description": "Vibrant 7-inch OLED screen with wide adjustable stand.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/143.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Nintendo",
+    "stock": 20
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e044"
+    },
+    "name": "Steam Deck OLED",
+    "price": 549.00,
+    "description": "Handheld PC gaming with a stunning HDR OLED display.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/144.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Valve",
+    "stock": 4
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e045"
+    },
+    "name": "Logitech G502 X Plus",
+    "price": 159.00,
+    "description": "Iconic gaming mouse with LIGHTFORCE hybrid switches.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/145.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Logitech",
+    "stock": 30
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e046"
+    },
+    "name": "Razer BlackWidow V4",
+    "price": 229.00,
+    "description": "Mechanical gaming keyboard with immersive 2-side underglow.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/146.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Razer",
+    "stock": 15
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e047"
+    },
+    "name": "SteelSeries Arctis Nova Pro",
+    "price": 349.00,
+    "description": "Multi-system gaming headset with Hi-Res audio and ANC.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/147.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Amazon",
+    "stock": 12
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e048"
+    },
+    "name": "Secretlab TITAN Evo",
+    "price": 549.00,
+    "description": "Award-winning gaming chair with advanced ergonomic support.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/148.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Secretlab",
+    "stock": 6
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e049"
+    },
+    "name": "Asus ROG Swift 27\"",
+    "price": 899.00,
+    "description": "OLED gaming monitor with 240Hz refresh rate and 0.03ms response.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/149.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Asus",
+    "stock": 3
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e050"
+    },
+    "name": "Meta Quest 3",
+    "price": 499.00,
+    "description": "Mixed reality headset with powerful performance and graphics.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/150.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Meta",
+    "stock": 20
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e051"
+    },
+    "name": "Sony Alpha a7 IV",
+    "price": 2499.00,
+    "description": "33MP full-frame sensor with advanced real-time eye autofocus for stills and video.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/151.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Sony Official",
+    "stock": 4
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e052"
+    },
+    "name": "Canon EOS R6 Mark II",
+    "price": 2299.00,
+    "description": "High-speed mirrorless camera with 40fps electronic shutter and 4K 60p video.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/152.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Canon Store",
+    "stock": 6
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e053"
+    },
+    "name": "Fujifilm X-T5",
+    "price": 1699.00,
+    "description": "Classic design with 40MP X-Trans sensor and 6.2K video recording capability.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/153.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Fujifilm",
+    "stock": 5
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e054"
+    },
+    "name": "GoPro HERO12 Black",
+    "price": 399.00,
+    "description": "Rugged waterproof action camera with HyperSmooth 6.0 stabilization and HDR video.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/154.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "GoPro",
+    "stock": 25
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e055"
+    },
+    "name": "DJI Mini 4 Pro",
+    "price": 759.00,
+    "description": "Under 249g drone with 4K/60fps HDR True Vertical Shooting and omnidirectional sensing.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/155.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "DJI Store",
+    "stock": 10
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e056"
+    },
+    "name": "Nikon Z8",
+    "price": 3699.00,
+    "description": "Powerful mirrorless performance in a compact body with 8K video and internal N-RAW.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/156.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Nikon",
+    "stock": 3
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e057"
+    },
+    "name": "Insta360 X3",
+    "price": 449.00,
+    "description": "5.7K 360-degree action camera with a large touchscreen and easy AI editing.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/157.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Amazon",
+    "stock": 15
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e058"
+    },
+    "name": "Panasonic Lumix S5II",
+    "price": 1999.00,
+    "description": "Phase Hybrid AF mirrorless camera designed for professional video creators.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/158.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Panasonic",
+    "stock": 8
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e059"
+    },
+    "name": "Leica Q3",
+    "price": 5995.00,
+    "description": "Full-frame fixed lens camera with a Summilux 28mm f/1.7 ASPH lens.",
+    "ratings": 5.0,
+    "images": [
+      {
+        "image": "/images/products/159.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Leica",
+    "stock": 1
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e060"
+    },
+    "name": "Polaroid Now+ Gen 2",
+    "price": 149.00,
+    "description": "Instant camera with App connectivity for creative filters and light painting.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "/images/products/160.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Polaroid",
+    "stock": 40
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e061"
+    },
+    "name": "iPad Pro 12.9 M2",
+    "price": 1099.00,
+    "description": "Liquid Retina XDR display with ProMotion and the powerful Apple M2 chip.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/161.jpg"
+      }
+    ],
+    "category": "Tablets",
+    "seller": "Apple",
+    "stock": 15
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e062"
+    },
+    "name": "Samsung Galaxy Tab S9 Ultra",
+    "price": 1199.00,
+    "description": "14.6-inch Dynamic AMOLED 2X screen, IP68 rated, with included S-Pen.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/162.jpg"
+      }
+    ],
+    "category": "Tablets",
+    "seller": "Samsung Official",
+    "stock": 10
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e063"
+    },
+    "name": "Microsoft Surface Go 3",
+    "price": 399.00,
+    "description": "The most portable Surface touchscreen 2-in-1, perfect for everyday tasks.",
+    "ratings": 4.1,
+    "images": [
+      {
+        "image": "/images/products/163.jpg"
+      }
+    ],
+    "category": "Tablets",
+    "seller": "Microsoft Store",
+    "stock": 20
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e064"
+    },
+    "name": "Amazon Fire HD 10",
+    "price": 139.00,
+    "description": "10.1-inch 1080p Full HD display with 32 GB storage for entertainment.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/164.jpg"
+      }
+    ],
+    "category": "Tablets",
+    "seller": "Amazon",
+    "stock": 100
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e065"
+    },
+    "name": "Google Pixel Tablet",
+    "price": 499.00,
+    "description": "A tablet that's also a smart home hub with an included charging speaker dock.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "/images/products/165.jpg"
+      }
+    ],
+    "category": "Tablets",
+    "seller": "Google Store",
+    "stock": 12
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e066"
+    },
+    "name": "Lenovo Tab P11 Gen 2",
+    "price": 269.00,
+    "description": "Cinematic 11.5-inch 2K display with quad-speaker system and Dolby Atmos.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "/images/products/166.jpg"
+      }
+    ],
+    "category": "Tablets",
+    "seller": "Lenovo",
+    "stock": 18
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e067"
+    },
+    "name": "iPad Mini 6",
+    "price": 499.00,
+    "description": "Small enough to fit in one hand, powerful enough for any task with A15 Bionic.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/167.jpg"
+      }
+    ],
+    "category": "Tablets",
+    "seller": "Apple Store",
+    "stock": 25
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e068"
+    },
+    "name": "Xiaomi Pad 6",
+    "price": 349.00,
+    "description": "144Hz WQHD+ display with Snapdragon 870 for smooth gaming and work.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/168.jpg"
+      }
+    ],
+    "category": "Tablets",
+    "seller": "Xiaomi",
+    "stock": 30
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e069"
+    },
+    "name": "OnePlus Pad",
+    "price": 479.00,
+    "description": "World's first tablet with 7:5 ratio screen and 144Hz ReadFit display.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/169.jpg"
+      }
+    ],
+    "category": "Tablets",
+    "seller": "OnePlus",
+    "stock": 14
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e070"
+    },
+    "name": "Remarkable 2",
+    "price": 299.00,
+    "description": "The world's thinnest tablet. Replace your paper notebooks and printed documents.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "/images/products/170.jpg"
+      }
+    ],
+    "category": "Tablets",
+    "seller": "Remarkable",
+    "stock": 10
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e071"
+    },
+    "name": "Ninja Foodi 6-in-1",
+    "price": 199.00,
+    "description": "2-Basket Air Fryer with DualZone Technology to cook two foods at once.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/171.jpg"
+      }
+    ],
+    "category": "Kitchen",
+    "seller": "Ninja Kitchen",
+    "stock": 50
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e072"
+    },
+    "name": "KitchenAid Artisan Mixer",
+    "price": 449.00,
+    "description": "Tilt-head stand mixer with 5-quart stainless steel bowl and 10 speed settings.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/172.jpg"
+      }
+    ],
+    "category": "Kitchen",
+    "seller": "KitchenAid",
+    "stock": 20
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e073"
+    },
+    "name": "Nespresso Vertuo Pop",
+    "price": 129.00,
+    "description": "Compact and colorful coffee machine for high-quality espresso and coffee.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/173.jpg"
+      }
+    ],
+    "category": "Kitchen",
+    "seller": "Nespresso",
+    "stock": 60
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e074"
+    },
+    "name": "Cosori Smart Air Fryer",
+    "price": 119.00,
+    "description": "Wi-Fi enabled air fryer with 13 cooking functions and 5.8-quart capacity.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/174.jpg"
+      }
+    ],
+    "category": "Kitchen",
+    "seller": "Cosori",
+    "stock": 80
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e075"
+    },
+    "name": "Breville Barista Express",
+    "price": 699.00,
+    "description": "Semi-automatic espresso machine with integrated conical burr grinder.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/175.jpg"
+      }
+    ],
+    "category": "Kitchen",
+    "seller": "Breville",
+    "stock": 15
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e076"
+    },
+    "name": "Instant Pot Pro",
+    "price": 169.00,
+    "description": "10-in-1 multi-cooker with 28 customizable programs and steam release.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/176.jpg"
+      }
+    ],
+    "category": "Kitchen",
+    "seller": "Instant Brands",
+    "stock": 45
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e077"
+    },
+    "name": "Vitamix A2300 Ascent",
+    "price": 499.00,
+    "description": "High-performance blender with built-in wireless connectivity and timer.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/177.jpg"
+      }
+    ],
+    "category": "Kitchen",
+    "seller": "Vitamix",
+    "stock": 12
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e078"
+    },
+    "name": "Zojirushi Rice Cooker",
+    "price": 189.00,
+    "description": "Micom rice cooker and warmer with advanced neuro fuzzy logic technology.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/178.jpg"
+      }
+    ],
+    "category": "Kitchen",
+    "seller": "Zojirushi",
+    "stock": 22
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e079"
+    },
+    "name": "Philips Pasta Maker",
+    "price": 299.00,
+    "description": "Fully automatic solution that makes fresh pasta and noodles in 10 minutes.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "/images/products/179.jpg"
+      }
+    ],
+    "category": "Kitchen",
+    "seller": "Philips Home",
+    "stock": 18
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e080"
+    },
+    "name": "Anova Precision Cooker",
+    "price": 149.00,
+    "description": "Sous Vide immersion circulator with Wi-Fi and Bluetooth connectivity.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/180.jpg"
+      }
+    ],
+    "category": "Kitchen",
+    "seller": "Anova",
+    "stock": 35
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e081"
+    },
+    "name": "Dyson Purifier Cool TP07",
+    "price": 649.00,
+    "description": "Purifying fan that captures 99.97% of allergens and pollutants.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/181.jpg"
+      }
+    ],
+    "category": "Appliances",
+    "seller": "Dyson",
+    "stock": 15
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e082"
+    },
+    "name": "Roborock S8 Pro Ultra",
+    "price": 1599.00,
+    "description": "Robot vacuum and mop with self-drying, self-cleaning, and self-emptying dock.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/182.jpg"
+      }
+    ],
+    "category": "Appliances",
+    "seller": "Roborock Store",
+    "stock": 7
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e083"
+    },
+    "name": "LG OLED C3 65\"",
+    "price": 1699.00,
+    "description": "4K Smart TV with infinite contrast and the Alpha 9 Gen 6 AI processor.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/183.jpg"
+      }
+    ],
+    "category": "Appliances",
+    "seller": "LG Official",
+    "stock": 10
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e084"
+    },
+    "name": "Honeywell HEPA Purifier",
+    "price": 199.00,
+    "description": "Doctor recommended air purifier for large rooms with 4 cleaning levels.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/184.jpg"
+      }
+    ],
+    "category": "Appliances",
+    "seller": "Amazon",
+    "stock": 50
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e085"
+    },
+    "name": "Ecobee Smart Thermostat",
+    "price": 249.00,
+    "description": "Energy Star certified thermostat with built-in Alexa and remote sensor.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/185.jpg"
+      }
+    ],
+    "category": "Appliances",
+    "seller": "Ecobee",
+    "stock": 20
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e086"
+    },
+    "name": "Ring Video Doorbell Pro 2",
+    "price": 249.00,
+    "description": "Wired doorbell with Head-to-Toe HD+ Video and 3D Motion Detection.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/186.jpg"
+      }
+    ],
+    "category": "Appliances",
+    "seller": "Ring",
+    "stock": 35
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e087"
+    },
+    "name": "Blueair Blue 211+",
+    "price": 319.00,
+    "description": "High-performance air purifier with HEPASilent technology for quiet rooms.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/187.jpg"
+      }
+    ],
+    "category": "Appliances",
+    "seller": "Blueair",
+    "stock": 14
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e088"
+    },
+    "name": "August Wi-Fi Smart Lock",
+    "price": 199.00,
+    "description": "Fits over your existing deadbolt and connects directly to your Wi-Fi.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/188.jpg"
+      }
+    ],
+    "category": "Appliances",
+    "seller": "August Home",
+    "stock": 28
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e089"
+    },
+    "name": "Tineco Floor ONE S5",
+    "price": 499.00,
+    "description": "Smart cordless wet dry vacuum cleaner and mop for hard floors.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/189.jpg"
+      }
+    ],
+    "category": "Appliances",
+    "seller": "Tineco",
+    "stock": 12
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e090"
+    },
+    "name": "Phillips Hue Starter Kit",
+    "price": 179.00,
+    "description": "Includes 3 white and color ambiance smart bulbs and a bridge.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/190.jpg"
+      }
+    ],
+    "category": "Appliances",
+    "seller": "Philips Hue",
+    "stock": 40
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e091"
+    },
+    "name": "Peloton Bike+",
+    "price": 2495.00,
+    "description": "Stationary bike with a 23.8-inch rotating HD touchscreen for studio classes.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/191.jpg"
+      }
+    ],
+    "category": "Fitness",
+    "seller": "Peloton",
+    "stock": 5
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79e092"
+    },
+    "name": "Bowflex SelectTech 552",
+    "price": 429.00,
+    "description": "Adjustable dumbbells that replace 15 sets of weights in one system.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/192.jpg"
+      }
+    ],
+    "category": "Fitness",
+    "seller": "Bowflex",
+    "stock": 20
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79093"
+    },
+    "name": "Theragun Pro Gen 5",
+    "price": 599.00,
+    "description": "Professional-grade percussive therapy device for deep muscle treatment.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/193.jpg"
+      }
+    ],
+    "category": "Fitness",
+    "seller": "Therabody",
+    "stock": 15
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79094"
+    },
+    "name": "Hydro Flask 32oz",
+    "price": 44.95,
+    "description": "Wide mouth water bottle with TempShield double-wall vacuum insulation.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/194.jpg"
+      }
+    ],
+    "category": "Fitness",
+    "seller": "Hydro Flask",
+    "stock": 100
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79095"
+    },
+    "name": "Manduka PRO Yoga Mat",
+    "price": 129.00,
+    "description": "High-density cushion and joint protection for professional yoga practice.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/195.jpg"
+      }
+    ],
+    "category": "Fitness",
+    "seller": "Manduka",
+    "stock": 50
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79096"
+    },
+    "name": "North Face Borealis",
+    "price": 99.00,
+    "description": "Classic 28-liter backpack with easy-access pockets and a padded laptop sleeve.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/196.jpg"
+      }
+    ],
+    "category": "Fitness",
+    "seller": "North Face",
+    "stock": 30
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79097"
+    },
+    "name": "YETI Tundra 45 Cooler",
+    "price": 325.00,
+    "description": "PermaFrost insulation and FatWall design for legendary ice retention.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/197.jpg"
+      }
+    ],
+    "category": "Fitness",
+    "seller": "YETI",
+    "stock": 12
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79098"
+    },
+    "name": "Lululemon The Mat 5mm",
+    "price": 98.00,
+    "description": "Made with natural rubber and a grippy top layer for sweaty sessions.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/198.jpg"
+      }
+    ],
+    "category": "Fitness",
+    "seller": "Lululemon",
+    "stock": 25
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79099"
+    },
+    "name": "Brooks Ghost 15",
+    "price": 140.00,
+    "description": "Neutral running shoe with DNA LOFT v2 cushioning for a smooth ride.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/199.jpg"
+      }
+    ],
+    "category": "Fitness",
+    "seller": "Brooks",
+    "stock": 40
+  },
+  {
+    "_id": {
+      "$oid": "70612658d15f5c62bb79100"
+    },
+    "name": "Concept2 RowErg",
+    "price": 990.00,
+    "description": "The gold standard for indoor rowing with Performance Monitor 5.",
+    "ratings": 5.0,
+    "images": [
+      {
+        "image": "/images/products/200.jpg"
+      }
+    ],
+    "category": "Fitness",
+    "seller": "Concept2",
+    "stock": 8
+  }
+]
