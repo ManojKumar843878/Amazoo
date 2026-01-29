@@ -1,0 +1,139 @@
+body {
+  background: url('/assets/images/productlist.jpg') no-repeat center;
+  background-size: cover; /* cover entire screen */
+  background-position: center;
+  background-attachment: fixed;
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+/* Parent Row: stretch columns */
+.f-flex {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch; /* Make children same height */
+    gap: 30px;
+}
+
+/* Image Column */
+#product_image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+    flex: 1; /* Take equal space */
+    min-height: 500px; /* Ensure minimum height */
+}
+
+#product_image img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+#product_image img:hover {
+    transform: scale(1.05);
+}
+
+/* Details Column */
+.col-lg-5.mt-5 {
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.05);
+    flex: 1; /* Take equal space */
+    display: flex;
+    flex-direction: column;
+}
+
+/* Make description scrollable if too long */
+.col-lg-5.mt-5 p, .col-lg-5.mt-5 h4 {
+    margin-bottom: 15px;
+}
+
+/* Optional: add scroll for long description */
+.details-scroll {
+    overflow-y: auto;
+}
+
+/* Keep previous styling for image, buttons, rating, etc. */
+.rating-outer {
+    display: inline-block;
+    position: relative;
+    height: 20px;
+    width: 100px;
+    background: #ddd;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.rating-inner {
+    position: absolute;
+    height: 100%;
+    width: 0;
+    background: #ffcc00;
+    border-radius: 10px;
+}
+
+#product_price {
+    font-size: 24px;
+    font-weight: bold;
+    color: #007bff;
+}
+
+.stockCounter {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.stockCounter .btn {
+    width: 35px;
+    height: 35px;
+    font-size: 18px;
+    line-height: 1;
+    padding: 0;
+    border-radius: 5px;
+}
+
+.stockCounter input {
+    width: 60px;
+    text-align: center;
+    margin: 0 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+#cart_btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+}
+
+#cart_btn:hover {
+    background-color: #0056b3;
+    color: #fff;
+}
+
+/* Status */
+p span {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+    .col-lg-5 {
+        width: 100%;
+    }
+
+    #product_image {
+        min-height: auto;
+    }
+}

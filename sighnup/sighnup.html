@@ -1,0 +1,33 @@
+<div class="auth-wrapper">
+  <div class="auth-card">
+    <h1 class="brand">Amazoo</h1>
+    <p class="tagline">Create your account 🚀</p>
+
+    <form (submit)="onSignup($event)">
+
+      <div class="field">
+        <input type="text" required [(ngModel)]="signupData.name" name="name" />
+        <label>Full Name</label>
+      </div>
+
+      <div class="field">
+        <input type="email" required [(ngModel)]="signupData.email" name="email" />
+        <label>Email</label>
+      </div>
+
+      <div class="field">
+        <input type="password" required [(ngModel)]="signupData.password" name="password" />
+        <label>Password</label>
+      </div>
+
+      <button type="submit" class="primary-btn">Sign Up</button>
+
+      <p *ngIf="signupMessage" class="success-text">{{ signupMessage }}</p>
+
+      <p class="switch-text">
+        Already have an account? <a routerLink="/login">Login</a>
+      </p>
+
+    </form>
+  </div>
+</div>

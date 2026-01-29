@@ -1,0 +1,74 @@
+ body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: radial-gradient(circle at top left, #1f2330, #0a0c14);
+  }
+
+  .circle {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    background: linear-gradient(145deg, #14181f, #212837);
+    box-shadow: 0 15px 40px rgba(0,255,200,0.4),
+                inset 0 0 20px rgba(0,255,200,0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: pulse 2s ease-in-out infinite;
+  }
+
+  svg {
+    width: 80px;
+    height: 80px;
+  }
+
+  .tick {
+    stroke: #00ffc2;
+    stroke-width: 8;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    fill: none;
+    stroke-dasharray: 100;
+    stroke-dashoffset: 100;
+    animation: drawTick 0.8s ease forwards 0.5s;
+  }
+
+  @keyframes drawTick {
+    to {
+      stroke-dashoffset: 0;
+    }
+  }
+
+  @keyframes pulse {
+    0%, 100% {
+      transform: scale(1);
+      box-shadow: 0 15px 40px rgba(0,255,200,0.3),
+                  inset 0 0 15px rgba(0,255,200,0.2);
+    }
+    50% {
+      transform: scale(1.08);
+      box-shadow: 0 20px 50px rgba(0,255,200,0.6),
+                  inset 0 0 25px rgba(0,255,200,0.3);
+    }
+  }
+   h2,span{
+    font-size:32px;
+    margin-top:15px;
+    color:#bfffee;
+    
+  }
+
+  a{
+    display:inline-block;
+    margin-top:10px;
+    color:#00ffc6;
+    text-decoration:none;
+    font-weight:500;
+  }
+
+  a:hover{
+    text-decoration:underline;
+  }

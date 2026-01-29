@@ -1,0 +1,28 @@
+<div class="auth-wrapper">
+  <div class="auth-card">
+    <h1 class="brand">Amazoo</h1>
+    <p class="tagline">Welcome back 👋</p>
+
+    <form (submit)="onLogin($event)">
+
+      <div class="field">
+        <input type="email" required [(ngModel)]="loginData.email" name="email" />
+        <label>Email</label>
+      </div>
+
+      <div class="field">
+        <input type="password" required [(ngModel)]="loginData.password" name="password" />
+        <label>Password</label>
+      </div>
+
+      <button type="submit" class="primary-btn">Login</button>
+
+      <p *ngIf="loginError" class="error-text">{{ loginError }}</p>
+
+      <p class="switch-text">
+        New to Amazoo? <a routerLink="/signup">Create account</a>
+      </p>
+
+    </form>
+  </div>
+</div>

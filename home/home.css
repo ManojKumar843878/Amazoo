@@ -1,0 +1,129 @@
+/* Body & Background */
+body {
+  background: url('/assets/images/home.jpg') no-repeat center;
+  background-size: cover; /* cover entire screen */
+  background-position: center;
+  background-attachment: fixed;
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Heading */
+#products_heading {
+  color: #111;
+  font-weight: 700;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
+
+/* Products Container */
+#products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  padding-bottom: 50px;
+}
+
+/* Individual Product Card */
+.card {
+  background-color: rgba(255, 255, 255, 0.95); /* semi-transparent for contrast */
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.25);
+}
+
+/* Card Image */
+.card-img-top {
+  height: 200px;
+  object-fit: contain;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+/* Card Body */
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 15px;
+}
+
+/* Product Title */
+.card-title {
+  font-size: 1rem;
+  font-weight: 600;
+  height: 48px;
+  overflow: hidden;
+  margin-bottom: 10px;
+  color: #111;
+}
+
+.card-title a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.card-title a:hover {
+  color: #ff9900; /* hover effect on title */
+}
+
+/* Product Price */
+.card-text {
+  color: #b12704; /* Amazon red */
+  font-size: 1.2rem;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+/* View Details Button */
+#view_btn {
+  background-color: #ff9900;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  color: #fff;
+  font-weight: 600;
+  width: 100%;
+  transition: background 0.3s;
+}
+
+#view_btn:hover {
+  background-color: #e68a00;
+  text-decoration: none;
+  color: #fff;
+}
+
+/* Dark Mode Card Hover */
+body.dark .card:hover {
+  box-shadow: 0 25px 50px rgba(0, 0, 0, 0.7);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .card-img-top {
+    height: 180px;
+  }
+}
+
+@media (max-width: 576px) {
+  #products_heading {
+    font-size: 1.6rem;
+  }
+
+  .card-img-top {
+    height: 150px;
+  }
+}
+
